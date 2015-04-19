@@ -1,0 +1,36 @@
+@media (max-width: 545px) {
+    h1 {
+        font-size: 23px;
+    }
+    h3 {
+        font-size: 18px;
+    }
+}
+
+
+.photo {
+    width: 150px;
+}
+
+h1 {
+    font-family: 'Signika', sans-serif;
+    font-weight: 400;
+}
+
+h2 {
+    font-family: 'Signika', sans-serif;
+    font-weight: 300;
+}
+
+h3 {
+    font-family: 'Signika', sans-serif;
+    font-weight: 300;
+}
+
+hr {
+    border: none;
+    height: 2px;
+    background-color: #333
+}
+
+

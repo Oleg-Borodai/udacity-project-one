@@ -1,6 +1,9 @@
 @media (max-width: 545px) {
     h1 {
-        font-size: 23px;
+        font-size: 22px;
+    }
+    h2 {
+        font-size: 20px;
     }
     h3 {
         font-size: 18px;
